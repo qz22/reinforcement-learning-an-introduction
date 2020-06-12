@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.table import Table
 
-matplotlib.use('Agg')
+#matplotlib.use('Agg')
 
 WORLD_SIZE = 5
 A_POS = [0, 1]
